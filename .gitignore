@@ -1,0 +1,29 @@
+# Local environments
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Audio (do not upload)
+*.wav
+*.mp3
+*.flac
+*.aiff
+*.aac
+*.ogg
+*.m4a
+
+# External datasets (do not redistribute)
+data_external/maestro_subset/
+data_external/**/maestro*
+data_external/**/MAESTRO*
+
+# Archives / large exports
+*.zip
+*.rar
+*.7z
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
