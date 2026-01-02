@@ -1,0 +1,22 @@
+{
+  "prompt_id": "P02",
+  "model": "Suno v4.5",
+  "mode": "Custom",
+  "datetime_generated": "2025-08-31 22:38:00",
+  "seed": "N/A (not available in Suno Web)",
+  "file_output_online": "P02 Model A SUNO",
+  "file_output_local": "P02 Model A SUNO 4.5",
+  "audio_link": "https://suno.com/s/YHuWNzUJk4qpTnZx",
+  "version": "v1",
+  "parameters": {
+    "target_duration": "~60s",
+    "actual_duration": "00:00:59",
+    "tempo_bpm": "60–70",
+    "vocals": "No",
+    "genre_style": "Ambient / Meditative",
+    "instruments": "Soft felt piano, Warm Strings, Airy Pads",
+    "emotional_arc": "Gradual textural expansion without climax",
+    "mood": "Calm, serene, meditative"
+  },
+  "brief": "A 60 seconds calm ambient instrumental track for guided breathing meditation. Short intro with soft felt piano chords and natural reverb. Sustained warm strings and airy pads gradually join, expanding the texture without climax. Tempo 60–70 BPM, no percussion. Long reverb and wide stereo depth create immersive spaciousness. Mood: calm, serene, meditative."
+}

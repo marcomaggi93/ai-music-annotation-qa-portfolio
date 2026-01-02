@@ -1,0 +1,64 @@
+{
+  "prompt_id": "P03",
+  "model_label": "Model B",
+  "ai_platform": "ElevenLabs Music",
+  "datetime_generated": "2025-09-25",
+  "brief": "Pop ballad song at ~72 BPM with expressive female lead; nostalgic/longing mood. Piano-led arrangement with warm strings, acoustic guitar, lush pads, gentle electronic percussion. Builds from intimate verse to soaring chorus, emotional bridge climax, reflective outro. (Lyrics created with ChatGPT 5).",
+  "frozen_parameters": {
+    "lyrics": "Full custom lyrics provided",
+    "genre_and_voice": "Pop Ballad, expressive female vocal",
+    "structure": "verse → chorus → bridge climax → outro",
+    "mood": "nostalgic, longing, emotional intensity",
+    "tempo_target_bpm": "~72",
+    "core_instruments": [
+      "piano",
+      "strings",
+      "gentle electronic percussion"
+    ]
+  },
+  "prompt_text": "Heartfelt pop ballad at 72 BPM with expressive female vocals, nostalgic and longing. Piano-led with warm strings, acoustic guitar, lush pads, subtle bass, and subtle percussion. Soulful, emotional ballad style. Verse → chorus → bridge climax → reflective outro. Chorus harmony and vocal line must remain the same across repetitions. With provided lyrics.",
+  "duration_set_request": "00:04:00",
+  "include_styles": [
+    "Pop Ballad",
+    "72 bpm",
+    "expressive female vocals",
+    "Nostalgic",
+    "longing",
+    "piano-led",
+    "Warm strings",
+    "Acoustic guitar",
+    "lush pads",
+    "subtle bass",
+    "subtle percussion",
+    "soulful",
+    "emotional"
+  ],
+  "exclude_styles": [
+    "EDM",
+    "dance-pop",
+    "Trap",
+    "Rap",
+    "Rock guitars",
+    "Country",
+    "Heavy autotune",
+    "heavy drums",
+    "rock",
+    "metal",
+    "upbeat dance"
+  ],
+  "section_durations_plan": {
+    "Verse 1": "00:00:30",
+    "Pre-Chorus (1)": "00:00:15",
+    "Chorus (1)": "00:00:35",
+    "Verse 2": "00:00:30",
+    "Pre-Chorus (2)": "00:00:15",
+    "Chorus (2)": "00:00:35",
+    "Bridge (emotional peak)": "00:00:25",
+    "Final Chorus": "00:00:40",
+    "Outro": "00:00:20"
+  },
+  "versions_created": 1,
+  "audio_link": "https://elevenlabs.io/music/songs/sBeq9UCdQiJXmVYJz8xb",
+  "duration_actual": "00:04:04",
+  "notes": "The piece is cohesive but monotonous, with sections too similar, static tension, no clear climax, and an abrupt ending. The vocal melody changes constantly with no recognizable chorus; harmony is simple and mostly correct (sevenths, slight bridge variation, final modulation to IV) but inconsistent, with unusual progressions such as III–IV in the outro. Rhythm and timing are steady, BPM respected, and vocal groove natural. Piano is clear and balanced, voice upfront, bass supportive; guitar is too subdued, lush pads are faint, and subtle percussion and warm strings are missing. Mood is nostalgic as intended, yet dynamics stay flat, choruses lack build, and the outro feels unresolved. Audio is clean and well balanced, though pads and guitar sit too low. Accessibility is weakened by unclear section references: verses/choruses not distinct, bridge anonymous, outro underdeveloped. The track fits the mood but needs clearer, more expressive sections. Vocals show good intonation and tone, but expression is flat, bridge lacks impact, and some lines are rushed with overlapping syllables, reducing lyric clarity; phrasing and prosody need refinement."
+}

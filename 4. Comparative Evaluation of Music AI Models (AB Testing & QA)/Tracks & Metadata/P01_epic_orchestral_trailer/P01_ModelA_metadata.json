@@ -1,0 +1,18 @@
+{
+    "prompt_id": "P01",
+    "model": "Suno v4.5",
+    "mode": "Custom",
+    "prompt_text": "A 45 seconds cinematic orchestral instrumental piece, at 100 BPM for an action movie trailer. Centered on bold brass fanfares and sweeping string sections, the arrangement conveys grandeur and action. Massive orchestral percussion\u2014timpani, taiko, and deep bass drums\u2014provides powerful rhythmic drive, punctuating dramatic transitions. Dark cinematic low drones underpin the score, adding weight and tension to the foundation. Strings deliver pulsing ostinatos that interlock with soaring brass stabs, creating momentum and a sense of rising conflict. Wide stereo depth and cavernous reverb amplify the immersive atmosphere, while layered orchestration evolves toward a climactic finale. The structure begins with ominous drones, builds through intensifying rhythmic interplay, and culminates in a bold, percussive surge. No vocals are present. The mood is powerful, heroic, and cinematic, ideal for trailer use.",
+    "parameters": {
+        "duration_target": "45s",
+        "tempo_bpm": 100,
+        "vocals": "No",
+        "genre_style": "Cinematic / Epic",
+        "instruments": "Brass, Strings, Orchestral Percussion (timpani, taiko, bass drums), Low Drones",
+        "weirdness": "30%",
+        "style_influence": "85%"
+    },
+    "file_output": "P01_A_v1.wav",
+    "datetime_generated": "2025-08-31 19:40:02",
+    "seed": "N/A"
+}
