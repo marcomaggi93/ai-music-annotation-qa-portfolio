@@ -1,0 +1,5 @@
+section_label,start_sec,end_sec,confidence_manual
+Intro,0,10.693757,0.9
+Section A,10.693757,32.026254,0.8
+Section A1,32.026254,53.357215,0.8
+Section B - Climax,53.357215,89.991837,0.85 
