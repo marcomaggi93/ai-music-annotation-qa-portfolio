@@ -1,0 +1,5 @@
+section;start_sec;end_sec;instruments;mood;energy;function;confidence_manual
+Intro;0.000000;10.874446;soft_bass_synth,female_vocalises,soft_synth_layer,snaps;calm,atmospheric;low;intro;0.6
+Build;10.874446;21.309345;bass_synth,soft_synth_layer,light_percussion,transitional_FX,snaps,female_vocalises;uplifting,rising;medium_rising;build;0.6
+Main_Section;21.309345;52.626278;synth_bass,airy_textures,warm_pads,kick,full_percussion,lead_vocal_melody;energetic,driving;high;main_section;0.75
+Outro;52.626278;64.959979;female_vocalises,light_synth,soft_bass_synth,atmospheric_FX;calm,release;low;outro_release;0.8

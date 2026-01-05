@@ -1,0 +1,6 @@
+Error_Type;Description;Affected_Boundaries;Notes;Confidence_diff
+Correct_boundary;Automatic boundary correctly aligned with manual structure;Auto boundary at 0.000 sec;Correct detection of track start (Intro).;+0.10
+False_boundary;Boundary placed without any musical or structural justification;Auto boundaries at 10.08, 20.149, 40.32, 50.447 sec;Boundaries fall inside stable sections without harmonic, textural, or functional change.;0.00–0.05
+On_silence;Boundary triggered by silence or reverb tail instead of real transition;Auto boundary at 30.261 sec;Split caused by decay zone, not marking a new structural section.;0.00–0.20
+Missing_boundary;Model failed to detect real structural transition;Manual boundaries missing at 3.450, 33.434, 63.450 sec;All main section transitions (Theme A, Build/Theme B, Outro) were not captured.;n/a
+Over_segmentation;Automatic model produced excessive number of boundaries;"Auto = 6 vs Manual = 4";Model applies near-regular slicing across the track instead of structure-aware segmentation.;n/a

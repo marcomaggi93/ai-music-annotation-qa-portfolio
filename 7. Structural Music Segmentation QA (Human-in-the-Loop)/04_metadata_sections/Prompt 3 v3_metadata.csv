@@ -1,0 +1,6 @@
+section;start_sec;end_sec;instruments;mood;energy;function;confidence_manual
+Section_A;0.000;56.532408;celesta, oboe, low cello drones, string pad;serene, spacious;low;theme_A;0.5
+Section_B;56.532408;128.820986;cello, low cello drones, string pad;emotive, intense;medium;theme_B;0.6
+Interlude;128.820986;151.530274;celesta, cello, low cello drones, string pad, high-register synth texture;delicate, serene;low;interlude;0.75
+Variation;151.530274;201.518384;celesta, cello, low cello drones, string pad, high-register synth texture;expressive, expansive;medium;variation;0.7
+Final_Reprise;201.518384;274.639979;cello, low cello drones, string pad, high-register synth texture;expressive, intense;medium;theme_reprise;0.7

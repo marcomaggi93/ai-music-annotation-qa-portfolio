@@ -1,0 +1,5 @@
+section;start_sec;end_sec;instruments;mood;energy;function;confidence_manual
+Intro;0.000000;22.511250;electric_guitar,warm_piano,soft_plucks,light_percussion;uplifting,light,warm;low;intro;0.6
+Main_Section_A;22.511250;62.509312;kick,full_percussion,electric_guitar,soft_plucks,airy_pads,synth_lead;motivational,positive;high;main_section;0.8
+Breakdown_Release;62.509312;82.511657;warm_piano,soft_plucks,electric_guitar,FX_textures;calm;low;breakdown_release;0.75
+Main_Section_B;82.511657;107.359979;kick,full_percussion,airy_pads,soft_plucks,electric_guitar,synth_pads;uplifting,energetic;high;main_section_variation;0.9

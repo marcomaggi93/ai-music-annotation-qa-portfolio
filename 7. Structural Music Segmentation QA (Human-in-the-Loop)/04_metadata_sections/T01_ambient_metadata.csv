@@ -1,0 +1,5 @@
+section;start_sec;end_sec;instruments;mood;energy;function;confidence_manual
+Intro;0.000000;3.450321;piano;calm,reflective;low;intro;0.8
+Main_Section_A;3.450321;33.433897;piano,subtle_drone,warm_strings,airy_pads;warm,uplifting;medium;theme;0.9 
+Build_Theme_B;33.433897;63.450392;piano,bass_drones,warm_strings,airy_pads;emotional,warm;high;build;0.85
+Outro;63.450392;70.919979;piano;gentle,dissolving;low;release;0.6

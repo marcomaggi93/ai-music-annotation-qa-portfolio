@@ -1,0 +1,5 @@
+section_label;start_sec;end_sec;confidence_manual
+Intro;0.000000;3.450321;0.8
+Main_Section_A;3.450321;33.433897;0.9 
+Build_Theme_B;33.433897;63.450392;0.85
+Outro;63.450392;70.919979;0.6

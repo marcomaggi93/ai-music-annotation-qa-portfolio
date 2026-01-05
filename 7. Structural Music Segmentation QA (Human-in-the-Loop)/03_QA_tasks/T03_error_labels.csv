@@ -1,0 +1,6 @@
+Error_Type,Description,Affected_Boundaries,Notes,Confidence_diff
+Correct_boundary,Automatic boundary correctly aligned with manual intro,Auto=0.000 sec,Accurate detection of track onset,+0.30
+Boundary_shift,Automatic boundary anticipates a real structural transition,"10.229 sec (true = 10.874 sec)",Early by ~0.64s; functional area correct,-0.10
+Severe_boundary_shift,Automatic boundary placed too early and outside tolerance,"20.267 sec (true = 21.309 sec)",Early by ~1.04s; outside ±1s window,-0.25
+False_boundary,Automatic boundary placed without corresponding manual transition,"30.293, 40.406, 50.507 sec",Internal splits inside stable manual sections,0.00–0.05
+Missing_boundary,Manual structural boundary not detected by the model,"21.309, 52.626 sec",No automatic boundary within ±1s,n/a

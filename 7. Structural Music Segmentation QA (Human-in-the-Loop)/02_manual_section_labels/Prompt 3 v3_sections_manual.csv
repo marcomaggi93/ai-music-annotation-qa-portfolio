@@ -1,0 +1,6 @@
+section_label;start_sec;end_sec;confidence_manual
+Section_A;0.000;56.532408;0.5
+Section_B;56.532408;128.820986;0.6
+Interlude;128.820986;151.530274;0.75
+Variation;151.530274;201.518384;0.7
+Final_Reprise;201.518384;274.639979;0.7

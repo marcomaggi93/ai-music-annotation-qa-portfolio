@@ -1,0 +1,2 @@
+track_id,precision,recall,notes
+P03,13.6%,30%,Severe over-segmentation with a very high number of spurious automatic boundaries across stable vocal and harmonic passages. Only three structural transitions were correctly detected, resulting in very low precision (13.6%) and low recall (30%). Multiple musically salient transitions (pre-chorus, chorus entries, bridge, and ending sections) were entirely missed, indicating poor alignment with formal pop-song structure despite correct detection of intro and one mid-song transition.

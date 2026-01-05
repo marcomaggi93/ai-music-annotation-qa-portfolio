@@ -1,0 +1,2 @@
+track_id,n_auto_sections,n_manual_sections,match_percent_boundaries,false_boundaries,missed_boundaries,avg_confidence_auto,avg_confidence_manual,notes
+P03,22,10,30%,18,7,0.20,0.80,Heavy over-segmentation with a very high number of false boundaries. Only a small portion of core structural transitions detected within tolerance. Overall low automatic confidence reflects noisy boundary behavior.

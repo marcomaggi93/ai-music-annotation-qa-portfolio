@@ -1,0 +1,10 @@
+section_label;start_sec;end_sec;issue_auto;confidence_auto;boundary_time_sec
+Section_01;0.0;12.021333333333333;ok;0.90;0.0
+Section_02;12.021333333333333;24.021333333333335;false_boundary;0.20;12.021333333333333
+Section_03;24.021333333333335;36.02133333333333;false_boundary;0.20;24.021333333333335
+Section_04;36.02133333333333;48.0;false_boundary;0.20;36.02133333333333
+Section_05;48.0;58.82666666666667;ok;0.7;48.0
+Section_06;58.82666666666667;69.024;false_boundary;0.10;58.82666666666667
+Section_07;69.024;79.95997916666667;false_boundary;0.10;69.024
+Section_missing;28,813995;NONE;missing_boundary;0.75;NONE
+Section_missing;67,211264;NONE;missing_boundary;0.8;NONE

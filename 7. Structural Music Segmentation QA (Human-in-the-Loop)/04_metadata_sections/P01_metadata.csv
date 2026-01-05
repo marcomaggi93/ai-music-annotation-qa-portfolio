@@ -1,0 +1,5 @@
+section;start_sec;end_sec;instruments;mood;energy;function;confidence_manual
+Intro;0;28.813995;Brass, strings, low drones, percussion (taiko-style);tense, anticipatory, dark;low_medium;build;0.75
+Section_A_Main_Theme;28.813995;48.018261;Brass, strings, low drones, percussion (taiko-style);heroic, driving, confident;medium;theme;0.75
+Section_A1_Main_Theme_Variation;48.018261;67.211264;Brass, strings, low drones, percussion (taiko-style, low drums);intense, driving;medium_high;variation;0.75
+Climax_Final_Section;67.211264;79.959979;Brass, strings, low drones, percussion (taiko-style, low drums,crash cymbals);epic, climactic, powerful;high;climax;0.8
