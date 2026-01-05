@@ -1,0 +1,7 @@
+title;key_est;confidence
+P01 Model A SUNO 4.5.mp3;D minor;0.981
+P02 Model B ElevenLabs.mp3;C major;0.976
+P03 Model A Suno 4.5.mp3;F# major;0.989
+Prompt 3 v2 SUNO 4.5.mp3;D major;0.969
+Prompt 3 v3 SUNO 4.5.mp3;D major;0.964
+Prompt 5 v2 (finale) SUNO 4.5.mp3;Eb minor;0.969
