@@ -31,7 +31,7 @@ ElevenLabs Music offers precise control over instrumentation, structure, tempo a
 Suno v5 excels at vocal songs: thanks to its advanced “custom mode + manual lyrics” it delivers convincing voice realism, solid structure management and good mixing — particularly effective when a lead vocal is required. 
 ElevenLabs Music — Prompt Design Principles
 
-.For Glass Echoes in Motion (instrumental underscore), prompts were structured according to the recommended order:
+.For Glass Echoes in Motion (instrumental underscore), prompts were structured in this order:
 
 Genre & Style
 (e.g. modern neo-classical minimalism, cinematic underscore)
@@ -58,9 +58,9 @@ Negative prompts to avoid unwanted artifacts
 Duration
 Provided as a target range, refined later inside the interface
 
-Prompts were kept concise (≈150–250 characters), technical rather than narrative, and focused on musical attributes rather than imagery, in line with ElevenLabs’ documentation.
+Prompts were kept concise (≈150–250 characters), technical rather than narrative, and focused on musical attributes rather than imagery.
 
-Glass Echoes in Motion (the created track) is a short modern neo-classical minimalist instrumental underscore built around a felt-piano ostinato, soft sustained strings, and warm ambient pads.
+-Glass Echoes in Motion (the created track) is a short modern neo-classical minimalist instrumental underscore built around a felt-piano ostinato, soft sustained strings, and warm ambient pads.
 The track unfolds as a gradual textural crescendo in A minor, maintaining a contemplative and hypnotic mood, with restrained dynamics and no heavy percussion, making it suitable for cinematic underscore use and music-AI evaluation tasks.
 
 .Suno v5 (Custom Mode) — Prompt Design Principles
@@ -72,7 +72,7 @@ Style → sound, genre, instrumentation, production, mix
 Lyrics → full manual lyrics with structural tags
 ([Intro], [Verse], [Pre-Chorus], [Chorus], etc.)
 
-The Style prompt followed the recommended four-block structure:
+The Style prompt followed this structure:
 
 Genre & Subgenre
 (future R&B, alternative pop)
@@ -316,5 +316,6 @@ Music AI Trainer / Annotator
 Music QA Specialist
 
 Prompt Designer / Prompt Engineer (music domain)
+
 
 AI Music Evaluator / Content Curator
